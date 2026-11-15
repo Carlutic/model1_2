@@ -1,0 +1,11 @@
+v1.1 improvements:
+	Fixed wrong normals on hair
+	Added English translations for some morphs and bones
+	Reduced the size of perineum. The anus is now closer to the vagina
+	Improved anus, vag and labium texture
+	Improved nipple texture
+	Added "垂乳"(breast sagging) morph (this morph is hidden by default), which will be automatically set to 1 when "全裸"(nude) morph is enabled
+	Moved the root of breast bone further so that the breast mesh can deform more naturally
+	Added a new sphere texture for skin material
+	Changed the color of skin material toon texture
+	Improved skin material edge color and size

@@ -1,0 +1,3 @@
+skin	FDF3E7
+neck	F4D6C2
+gloves	584E5F

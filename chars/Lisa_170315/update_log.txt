@@ -1,0 +1,5 @@
+v1.1 improvements:
+	Fixed UV seams on the wrists ("ˆß•žbase.png" has been updated)
+	Improved breast shape
+	Improved waist shape
+	Minor improvements on butt geometry

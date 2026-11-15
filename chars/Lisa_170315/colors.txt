@@ -1,0 +1,2 @@
+﻿skin	FFEEDC
+skin_AO	DB866E

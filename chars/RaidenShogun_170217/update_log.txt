@@ -1,0 +1,15 @@
+﻿v1.1 improvements:
+	Fixed additional rotation parent of eye bones
+
+v1.1a improvements:
+	Fixed missing update_log.txt in the folder
+
+v1.2 improvements:
+	Fixed missing clitoris
+
+v1.3 improvements:
+	Fixed additional rotation parent of eye bones again in v1.2
+	Improved shoulder bone position and weight
+
+v1.4 improvements:
+	Updated vag model to "Vag Mark 3 by MDJSN"

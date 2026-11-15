@@ -1,0 +1,3 @@
+v1.1 improvements:
+	Fixed wrong order of IK bones
+	Added English translations for some morphs and bones

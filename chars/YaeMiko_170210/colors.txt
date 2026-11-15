@@ -1,0 +1,5 @@
+skin	FFEEE3
+skin_AO	FBD5C3
+cloth_white	E5E5E5
+cloth_brown	3D2A2E
+nails	D87E8C

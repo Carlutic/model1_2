@@ -1,0 +1,4 @@
+﻿v1.1 improvements:
+	Fixed wrong bone weight on pants
+	Improved bone weight on clothes
+	Fixed wrong outline color on face materials

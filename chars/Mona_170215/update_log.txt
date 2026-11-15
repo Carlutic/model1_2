@@ -1,0 +1,8 @@
+v1.1 improvements:
+	Added a belly button
+
+v1.2 improvements:
+	Fixed some morphs in wrong categories
+	Fixed wrong order of IK bones
+	Added a morph to remove hat
+	Added English translations for some morphs and bones

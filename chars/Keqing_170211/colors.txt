@@ -1,0 +1,2 @@
+skin	FDEEE3
+skin_AO	EED1C1

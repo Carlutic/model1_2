@@ -1,0 +1,11 @@
+v1.1 improvements:
+	Changed all texture filenames to English
+	Combined nude model with clothes
+	Added "—‡é“‰»"(nude) morph
+	Increased edge thickness from 0.5 to 1
+
+v1.2 improvements:
+	Improved toon edge colors on hair and body
+
+v1.3 improvements:
+	Improved toon texture for stockings

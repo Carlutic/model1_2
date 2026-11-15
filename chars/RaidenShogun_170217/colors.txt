@@ -1,0 +1,3 @@
+skin	F3E0D2
+nails	A18BB1
+clothes	43355A

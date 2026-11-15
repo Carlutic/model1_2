@@ -1,0 +1,5 @@
+﻿v1.1 improvements:
+	Improved buttock and waist topology
+	Improved shape of the Northern hemisphere of the breast
+	Added abdominal muscles
+	Added clavicle and sternocleidomastoid muscle

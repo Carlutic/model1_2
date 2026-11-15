@@ -1,0 +1,4 @@
+v1.1 improvements:
+	Fixed wrong bone relations
+	Fixed bone connection problems
+	Fixed missing textures
