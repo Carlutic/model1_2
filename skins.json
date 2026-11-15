@@ -9,7 +9,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/NanaseMai",
-  "image": "Covers/NanaseMai_170301.png",
+  "image": "Covers/NanaseMai.png",
   "pmx": "【拘束の紙気】七瀬舞(ボテ腹).pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -23,7 +23,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/MizukiShiranui",
-  "image": "Covers/MizukiShiranui_170302.png",
+  "image": "Covers/MizukiShiranui.png",
   "pmx": "三角ビキニ不知火.pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -37,7 +37,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/MizukiShiranui",
-  "image": "Covers/MizukiShiranui_170303.png",
+  "image": "Covers/MizukiShiranui.png",
   "pmx": "普通の水着不知火.pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -51,7 +51,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/KamimuraMaika",
-  "image": "Covers/KamimuraMaika_170304.png",
+  "image": "Covers/KamimuraMaika.png",
   "pmx": "制服舞華.pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -65,7 +65,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/KamimuraMaika",
-  "image": "Covers/KamimuraMaika_170305.png",
+  "image": "Covers/KamimuraMaika.png",
   "pmx": "バニー舞華.pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -79,7 +79,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/KamimuraMaika",
-  "image": "Covers/KamimuraMaika_170306.png",
+  "image": "Covers/KamimuraMaika.png",
   "pmx": "零度爆炎舞華.pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -93,7 +93,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/AkiyamaRinko",
-  "image": "Covers/AkiyamaRinko_170307.png",
+  "image": "Covers/AkiyamaRinko.png",
   "pmx": "冬制服凜.pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -107,7 +107,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/AkiyamaRinko",
-  "image": "Covers/AkiyamaRinko_170308.png",
+  "image": "Covers/AkiyamaRinko.png",
   "pmx": "夏制服凜子.pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -121,7 +121,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/AkiyamaRinko",
-  "image": "Covers/AkiyamaRinko_170309.png",
+  "image": "Covers/AkiyamaRinko.png",
   "pmx": "ビキニ凜子.pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -135,7 +135,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/HanayomeYukikaze",
-  "image": "Covers/HanayomeYukikaze_170310.png",
+  "image": "Covers/HanayomeYukikaze.png",
   "pmx": "花嫁ユキカゼ(ボテ腹).pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -149,7 +149,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/Wakasakura",
-  "image": "Covers/Wakasakura_170311.png",
+  "image": "Covers/Wakasakura.png",
   "pmx": "制服若さくら.pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -163,7 +163,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/Wakasakura",
-  "image": "Covers/Wakasakura_170312.png",
+  "image": "Covers/Wakasakura.png",
   "pmx": "メス豚娼婦若さくら.pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -177,7 +177,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/Wakasakura",
-  "image": "Covers/Wakasakura_170313.png",
+  "image": "Covers/Wakasakura.png",
   "pmx": "虎パーカー若さくら.pmx",
   "base": "https://carlutic.github.io/model1_2/"
  },
@@ -191,7 +191,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/Wakasakura",
-  "image": "Covers/Wakasakura_170314.png",
+  "image": "Covers/Wakasakura.png",
   "pmx": "黒ギャル若さくら.pmx",
   "base": "https://carlutic.github.io/model1_2/"
  }
